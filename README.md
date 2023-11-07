@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello, I'm Harshil Patel 👋 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
-- 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/harshil-patel-953603223/) 
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/harshil-patel-953603223/) 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshil25patel.com)](mailto:harshil25patel@gmail.com)
 
 #### 👨🏻‍💻 Currently working on:
