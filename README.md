@@ -17,24 +17,28 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello, I'm Harshil Patel 👋 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=me-harshil" alt="me-harshil" /> </p>
-
 - 📫 How to reach me:[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/harshil-patel-953603223/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:harshil25patel@gmail.com)
+, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshil25patel.com)](mailto:harshil25patel@gmail.com)
+
+#### 👨🏻‍💻 Currently working on:
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
+<a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
+<a src="https://www.w3schools.com/css/"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a src="https://www.w3schools.com/html/"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
 
 - ⚡ Fun fact: I like ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ## Some Statistics About Me
-![Harshil's github stats]<a href="https://github.com/me-harshil">
+<a href="https://github.com/me-harshil">
   <img src="https://github-readme-stats.vercel.app/api?username=me-harshil&show_icons=true" alt="Harshil's GitHub Stats" />
 </a><br>
 
-### Recently I'm coding in...
-
-<a href="https://codestats.net/users/me-harshil">
-  <img src='https://codestats-readme.me-harshil.cn/history-graph/WEGFan?width=850&height=300&timezone=08:00&history_days=21&max_languages=9&language_colors=["3e4053","f15854","5da5da","faa43a","60bd68","f17cb0","b2912f","decf3f","b276b2","808080"]' alt="Harshil's Code::Stats history graph" />
-</a>
-
----
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=me-harshil.me-harshil)
 
 ⭐️ From [me-harshil](https://github.com/me-harshil)
