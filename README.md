@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <h1 align="center"> Hello, I'm Harshil Patel 👋 </h1>
 <h3 align="center">🚀 fullstack devlover 🚀</h3>
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/harshil-patel-953603223/) 
-, [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshil25patel.com)](mailto:harshil25patel@gmail.com)
+### How to reach me:
+
+<img src="https://img.shields.io/badge/harshil25patel@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="harshil25patel@gmail.com">
+ <a href="https://www.linkedin.com/in/harshil-patel-953603223/"><img src="https://img.shields.io/badge/Harshil Patel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 #### 👨🏻‍💻 Currently working on:
 
@@ -39,6 +41,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=me-harshil&show_icons=true" alt="Harshil's GitHub Stats" />
 </a><br>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=me-harshil.me-harshil)
+ ### Profile Views :<br>
+  <img src="https://profile-counter.glitch.me/me-harshil/count.svg" />
 
 ⭐️ From [me-harshil](https://github.com/me-harshil)
