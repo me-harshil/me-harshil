@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 </a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshil&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <br>
 
  ### Profile Views :<br>
