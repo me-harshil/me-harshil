@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### How to reach me:
 
-<img src="https://img.shields.io/badge/harshil25patel@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="mailto:harshil25patel@gmail.com">
+<a  href="mailto:harshil25patel@gmail.com"><img src="https://img.shields.io/badge/harshil25patel@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/harshil-patel-953603223/"><img src="https://img.shields.io/badge/Harshil Patel-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 
 #### 👨🏻‍💻 Currently working on:
