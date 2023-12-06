@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=me-harshil&show_icons=true" alt="Harshil's GitHub Stats" />
 </a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshil&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=me-harshil&hide-border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 
  ### Profile Views :<br>
