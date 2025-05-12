@@ -47,4 +47,10 @@ Here are some ideas to get you started:
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/me-harshil/count.svg" />
 
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ⭐️ From [me-harshil](https://github.com/me-harshil)
