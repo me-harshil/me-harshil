@@ -78,8 +78,8 @@ Full Stack Development with a focus on building scalable, performant application
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f">
   </a>
 </p>
 
