@@ -62,7 +62,7 @@ Full Stack Development with a focus on building scalable, performant application
 
 ![Top Languages](https://github-readme-stats-woad-pi.vercel.app/api/top-langs/?username=me-harshil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=me-harshil)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-one-olive.vercel.app?user=me-harshil&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
@@ -77,7 +77,11 @@ Full Stack Development with a focus on building scalable, performant application
 
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f)](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&redirect=true)
+<p align="center">
+  <a href="[https://github.com/kittinan/spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&redirect=true)">
+    <img src="[https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31omhg2b4kku5lekwt7rwn33nnk4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color_cover=true&bar_color=53b14f)">
+  </a>
+</p>
 
 Made with ❤️ and ☕ by Harshil
 
